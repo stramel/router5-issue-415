@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/react": "^16.8.13",
+    "@types/react-dom": "^16.8.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-router5": "^7.1.0",
+    "react-scripts": "2.1.8",
+    "router5": "^7.0.2",
+    "router5-plugin-browser": "^7.0.2",
+    "router5-plugin-logger": "^7.0.2",
+    "typescript": "^3.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
